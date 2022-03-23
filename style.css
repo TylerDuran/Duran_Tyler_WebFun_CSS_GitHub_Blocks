@@ -1,21 +1,19 @@
 .header {
-    width: 900px;
+    width: 100%;
 }
 .container{
     background-color: lightgray;
-    width: 955px;
     height: 100%;
     border-top: 2px solid black;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    padding-bottom: 5px;
+    padding: 5px 20px;
 }
 img {
     height: 200px;
 }
 .row-1 {
     background-color: cyan;
-    width: 900px;
     display: flex;
     justify-content: space-evenly;
     margin: 20px;
@@ -25,7 +23,6 @@ img {
 }
 .row-2 {
     background-color: hotpink;
-    width: 900px;
     display: flex;
     justify-content: space-evenly;
     margin: 20px;
@@ -35,7 +32,6 @@ img {
 }
 .row-3 {
     background-color: yellow;
-    width: 900px;
     display: flex;
     justify-content: space-evenly;
     margin: 20px;
@@ -44,6 +40,6 @@ img {
     border-radius: 10px;
 }
 h4 {
-    width: 900px;
+    width: 100%;
     font-size: small;
 }
